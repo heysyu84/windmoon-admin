@@ -1,10 +1,7 @@
-# WIND MOON 직원관리
+# WIND MOON 직원관리 기존 주소
 
-관리자 로그인 후 이용하는 직원관리 프로그램의 GitHub Pages 접속 화면입니다.
+현재 직원관리 화면은 https://heysyu84.github.io/windmoon/staff/ 입니다.
 
-- 접속: https://heysyu84.github.io/windmoon-admin/
-- 최초 계정 설정: https://windmoon-staff.heysyu457310.chatgpt.site/admin-setup
+전체 도구 대문: https://heysyu84.github.io/windmoon/
 
-이 저장소에는 정적 접속 화면과 로고만 포함합니다. 직원 원본 자료, 근무·급여 기록, 주민등록번호·연락처·계좌 정보, 관리자 비밀번호, 서버 암호화 키는 포함하지 않습니다. 모든 업무 데이터 조회·저장은 별도 서버의 관리자 인증을 통과해야 합니다. 두 주소에서 같은 업무 기록을 사용합니다.
-
-GitHub Pages는 main 브랜치의 루트에서 게시합니다.
+이 저장소의 기존 주소는 새 직원관리로 안내합니다. 이전 빌드의 자산과 Git 이력은 호환을 위해 유지합니다. 기존 직원 데이터·서버·로그인은 그대로 사용합니다.
